@@ -1,0 +1,5 @@
+#without argument without return value
+a1,b1=int(input()),int(input())
+def add4():
+    print(a1+b1)
+    add4()

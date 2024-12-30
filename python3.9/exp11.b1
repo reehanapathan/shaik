@@ -1,0 +1,2 @@
+name=('iam from "NIT"')
+print(name)

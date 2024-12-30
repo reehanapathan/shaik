@@ -1,0 +1,5 @@
+#without argument with return value
+a1,b1=int(input()),int(input())
+def add3():
+    return a1+b1
+print(add3())
